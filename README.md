@@ -1,6 +1,6 @@
 # Learning Routines for Effective Off-Policy Reinforcement Learning
 
-This repository contains research code for the *ICML 2021* paper [*Learning Routines for Effective Off-Policy Reinforcement Learning*](https://sites.google.com/view/routine_framework/).
+This repository contains research code for the *ICML 2021* paper [*Learning Routines for Effective Off-Policy Reinforcement Learning*](https://sites.google.com/view/routines-rl).
 
 # Routine framework
 
